@@ -1,0 +1,79 @@
+outputs:
+  ja: index
+  en: en
+
+page-title:
+  ja: "沙花叉クロヱのすべて"
+  en: "History of Chloe"
+
+settings:
+  footer: |
+    By <a href="https://github.com/mkaraki" target="_blank">mkaraki</a> with Love<br />
+    Thanks for <a
+        href="https://seesaawiki.jp/hololivetv/d/%BA%BB%B2%D6%BA%B5%A5%AF%A5%ED%A5%F1">ホロライブ非公式Wiki</a>
+    for history information.
+
+history:
+  - title:
+      ja: "初ツイート"
+      en: "First tweet"
+    embed:
+      - type: tweet
+        ja: '<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">寝てましたすいません怒らないでくださいごめんなさいぃ！！！</p>&mdash; 沙花叉クロヱ🎣キメラ投稿しました！ (@sakamatachloe) <a href="https://twitter.com/sakamatachloe/status/1464146059580510208?ref_src=twsrc%5Etfw">November 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>'
+    date: 2021-11-26
+
+  - title:
+      ja: "初配信"
+      en: "First live stream"
+    embed:
+      - type: youtube
+        id: Fb2IwaOWm8E
+    date: 2021-11-29
+
+  - title:
+      ja: "収益化"
+      en: "Monetize"
+    embed:
+      - type: youtube
+        id: 3aMJcqIu-EI
+    date: 2021-12-10
+
+  - title:
+      ja: "初のオリジナルソング公開"
+      en: "Publish first original song"
+    embed:
+      - type: youtube
+        id: IxOjRtMv3Cg
+    date: 2022-02-26
+
+  - title:
+      ja: "2回目のオリジナルソング公開"
+      en: "Publish 2nd original song"
+    embed:
+      - type: youtube
+        id: NmVGKfz0MEs
+    date: 2022-03-26
+
+  - title:
+      ja: "3回目のオリジナルソング公開"
+      en: "Publish 3rd original song"
+    embed:
+      - type: youtube
+        id: s7eDHROoBr4
+    date: 2022-04-30
+
+  - title:
+      ja: "1回目の誕生日配信"
+      en: "First time birthday stream"
+    embed:
+      - type: youtube
+        id: eHHGdWaNkJs
+    date: 2022-05-18
+
+  - title:
+      ja: "3Dお披露目配信"
+      en: "First time 3D live stream"
+    embed:
+      - type: youtube
+        id: MOekZ-g5qJQ
+    date: 2022-06-13

@@ -1,0 +1,9 @@
+location:
+  baseurl: "https://sakamata.ch/loe/"
+  domain: "sakamata.ch"
+colors:
+  circle: "#921a1b"
+  circle_shadow: "#cf4c4a"
+  line: "#ab0e0c"
+history: true
+discography: false
