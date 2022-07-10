@@ -33,8 +33,8 @@ jobs:
 
       - name: Build page
         run: |
-          cd site
-          python ../build.py
+          cp site/*.yaml ./
+          python ./build.py
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
